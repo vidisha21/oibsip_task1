@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unit</string>
+
+
+        <string name="select_conversion">Select Conversion</string>
+
+        <string-array name="conversion_options">
+            <item>Meter to Centimeter</item>
+            <item>Centimeter to Meter</item>
+            <item>gram to kilogram</item>
+            <item>kilogram to gram</item>
+        </string-array>
+
+
+</resources>
